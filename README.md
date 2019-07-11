@@ -6,5 +6,3 @@ Additional Information for ICIAM2019 poster: Exploring the emergence of abnormal
 Poster is included in pdf
 
 Mathematica script is available to visualize random weight changes to the stability condition. A cloud version can be found at: https://www.wolframcloud.com/obj/mcaiola/Published/ICIAM%20web.nb
-
-<iframe src="https://www.wolframcloud.com/obj/mcaiola/Published/ICIAM%20web.nb?_embed=iframe" width="600" height="800"></iframe>
